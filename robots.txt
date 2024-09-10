@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://layouscov.github.io/sitemap.html.gz
+Sitemap: https://layouscov.github.io/app/sitemap.html.gz
+Sitemap: https://layouscov.github.io/assets/sitemap.html.gz
+Sitemap: https://layouscov.github.io/css/sitemap.html.gz
+Sitemap: https://layouscov.github.io/includes/sitemap.html.gz
+Sitemap: https://layouscov.github.io/item/sitemap.html.gz
+Sitemap: https://layouscov.github.io/src/sitemap.html.gz
